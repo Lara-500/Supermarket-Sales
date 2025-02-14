@@ -1,5 +1,3 @@
-# Supermarket-Sales
-
 # Supermarket Sales Analysis
 
 ## Project Overview
